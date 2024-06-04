@@ -1,0 +1,6 @@
+@Simplecrud_HostAddress = http://localhost:5123
+
+GET {{Simplecrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
